@@ -1,6 +1,6 @@
-## Hi there 👋,
+## Hi there 👋, I'm Dmytro!
 
-my name is Dmytro. I'm a passionate software developer and technologies enthusiast. 
+I am a passionate software developer and technologies enthusiast. 
 
 My professional journey started in 2011 and it keeps moving. I worked on many projects for mobile operating systems. 
 
