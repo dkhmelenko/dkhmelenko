@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Dmytro!
+## Hi there, I'm Dmytro! 👋
 
 I am a passionate software developer and technologies enthusiast. 
 
