@@ -6,12 +6,15 @@ My professional journey started in 2011 and it keeps moving. I was doing a lot o
 
 In 2020 I switched to backend development and fall in love with Ruby on Rails, Python and cloud computing.
 
-### Here is my technical skills:
-🗣️ Python, Ruby on Rails, Kotlin, Java, C#
+&nbsp;
+&nbsp;
 
-🧰 Git, Docker, AWS
+### 🛠️ Here is my technical skills:
+- 🗣️ Python, Ruby on Rails, Kotlin, Java, C#
 
-🤔 Software architecture, requirements analysis, agile & product thinking
+- 🧰 Git, Docker, AWS
+
+- 🤔 Software architecture, requirements analysis, agile & product thinking
 
 
 &nbsp;
