@@ -11,7 +11,7 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 ### 🛠️ Technical skills
 - 🗣️ Python, Ruby on Rails, Kotlin, Java, C#
 
-- 🧰 Git, Docker, AWS
+- 🧰 Git, Docker, Kubernetes, AWS, Newrelic
 
 - 🤔 Software architecture, requirements analysis, agile & product thinking
 
