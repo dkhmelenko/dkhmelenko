@@ -2,11 +2,10 @@
 
 my name is Dmytro. I'm a passionate software developer and technologies enthusiast. 
 
-My professional journey started in 2011 and it keeps moving. I was doing a lot of engineering for mobile operating systems. 
+My professional journey started in 2011 and it keeps moving. I worked on many projects for mobile operating systems. 
 
 In 2020 I switched to backend development and fall in love with Ruby on Rails, Python and cloud computing.
 
-&nbsp;
 &nbsp;
 
 ### 🛠️ Technical skills
@@ -18,26 +17,12 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 
 
 &nbsp;
-&nbsp;
-&nbsp;
-
-### 👯 A big fan of open source
-
-- [Bot for approving PR](https://github.com/dkhmelenko/autoapproval)
-- [Unofficial Android client for Travis CI](https://github.com/dkhmelenko/Varis-Android)
-- [Unofficial Android SDK for MiBand](https://github.com/dkhmelenko/miband-android)
-
-&nbsp;
-&nbsp;
-&nbsp;
 
 ### 🎤 Enjoying speaking in public
 
 - [A journey to a smaller APK size](https://www.youtube.com/watch?v=OJDYfj-rdtw). Denver, Colorado. 2018
 - [Best of login experience](https://www.youtube.com/watch?v=JXJt1K-lh2E). Krakow, Poland. 2019
 
-&nbsp;
-&nbsp;
 &nbsp;
 
 ### 🚀 My side hustles
@@ -51,7 +36,6 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 - ✍️ I write regularly about technologies on [Medium](https://medium.com/@d.khmelenko)
 
 
-&nbsp;
 &nbsp;
 &nbsp;
 
