@@ -33,7 +33,7 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 
 - 🌱 [AWS Starter Template](https://dkhmelenko.gumroad.com/l/aws-starter-template)
 
-- ✍️ I write regularly about technologies on [Medium](https://medium.com/@d.khmelenko)
+- ✍️ I write regularly about technologies on [Medium](https://medium.com/@dkhmelenko)
 
 
 &nbsp;
