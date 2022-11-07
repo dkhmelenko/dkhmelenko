@@ -27,6 +27,7 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 
 ### 🚀 My side hustles
 
+- 📚 Book ["AWS Essentials"](https://www.amazon.com/gp/product/B0BCHCYQWR/)
 - 📚 Book ["Unlock the Code"](https://www.amazon.com/Unlock-Code-Ultimate-Advancing-Actionable-ebook-dp-B098LNMFCJ/dp/B098LNMFCJ/)
 
 - 👨‍🏫 Udemy course ["Practical Git"](https://www.udemy.com/course/practical-git-for-absolute-beginners/)
