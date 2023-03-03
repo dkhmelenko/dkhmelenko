@@ -11,7 +11,7 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 ### 🛠️ Technical skills
 - 🗣️ Python, Ruby on Rails, Kotlin, Java, C#
 
-- 🧰 Git, Docker, Kubernetes, AWS, Newrelic
+- 🧰 Git, Docker, AWS, GCP
 
 - 🤔 Software architecture, requirements analysis, agile & product thinking
 
@@ -33,6 +33,7 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 - 👨‍🏫 Udemy course ["Practical Git"](https://www.udemy.com/course/practical-git-for-absolute-beginners/)
 
 - 🌱 [AWS Starter Template](https://dkhmelenko.gumroad.com/l/aws-starter-template)
+- 🌱 [Tech Job Interview Preparation Template](https://dkhmelenko.gumroad.com/l/interview_preparation_template)
 
 - ✍️ I write regularly about technologies on [Medium](https://medium.com/@dkhmelenko)
 
