@@ -1,10 +1,10 @@
 ## Hi there, I'm Dmytro! 👋
 
-I am a passionate software developer and technologies enthusiast. 
+I am a seasoned software developer and technology enthusiast. 
 
 My professional journey started in 2011 and it keeps moving. I worked on many projects for mobile operating systems. 
 
-In 2020 I switched to backend development and fall in love with Ruby on Rails, Python and cloud computing.
+In 2020 I switched to backend development and fall in love with Ruby on Rails, Python, and cloud computing.
 
 &nbsp;
 
@@ -27,6 +27,8 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 
 ### 🚀 My side hustles
 
+- 📝 Check out my [blog](https://medium.com/@dkhmelenko) about technology
+
 - 📚 Book ["AWS Essentials"](https://www.amazon.com/gp/product/B0BCHCYQWR/)
 - 📚 Book ["Unlock the Code"](https://www.amazon.com/Unlock-Code-Ultimate-Advancing-Actionable-ebook-dp-B098LNMFCJ/dp/B098LNMFCJ/)
 
@@ -34,15 +36,13 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 
 - 🌱 [AWS Starter Template](https://dkhmelenko.gumroad.com/l/aws-starter-template)
 - 🌱 [Tech Job Interview Preparation Template](https://dkhmelenko.gumroad.com/l/interview_preparation_template)
-
-- ✍️ I write regularly about technologies on [Medium](https://medium.com/@dkhmelenko)
+- 🌱 [Public Speaking Guide](https://dkhmelenko.gumroad.com/l/public_speaking_guide)
 
 
 &nbsp;
 &nbsp;
 
-### 📫 I am always open for new contacts and collaborations
-- [Twitter](https://twitter.com/dkhmelenko)
+### 📫 I am always open to new contacts and collaborations
 - [LinkedIn](https://www.linkedin.com/in/dmytro-khmelenko/)
 
 
