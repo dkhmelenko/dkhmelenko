@@ -34,10 +34,11 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 
 - 👨‍🏫 Udemy course ["Practical Git"](https://www.udemy.com/course/practical-git-for-absolute-beginners/)
 
-- 🌱 [AWS Starter Template](https://dkhmelenko.gumroad.com/l/aws-starter-template)
-- 🌱 [Tech Job Interview Preparation Template](https://dkhmelenko.gumroad.com/l/interview_preparation_template)
-- 🌱 [Public Speaking Guide](https://dkhmelenko.gumroad.com/l/public_speaking_guide)
+- 🌱 [AWS Starter Template](https://store.becomingbetterdeveloper.com/l/aws-starter-template)
+- 🌱 [Tech Job Interview Preparation Template](https://store.becomingbetterdeveloper.com/l/interview_preparation_template)
+- 🌱 [Public Speaking Guide](https://store.becomingbetterdeveloper.com/l/public_speaking_guide)
 
+📞 [Book](https://store.becomingbetterdeveloper.com/l/jcxpo) a call with me to get expert guidance and insights!
 
 &nbsp;
 &nbsp;
