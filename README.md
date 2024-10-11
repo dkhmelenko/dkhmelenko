@@ -38,7 +38,10 @@ In 2020 I switched to backend development and fall in love with Ruby on Rails, P
 - 🌱 [Tech Job Interview Preparation Template](https://store.becomingbetterdeveloper.com/l/interview_preparation_template)
 - 🌱 [Public Speaking Guide](https://store.becomingbetterdeveloper.com/l/public_speaking_guide)
 
+
+
 📞 [Book](https://store.becomingbetterdeveloper.com/l/jcxpo) a call with me to get expert guidance and insights!
+
 
 &nbsp;
 &nbsp;
